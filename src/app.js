@@ -35,5 +35,5 @@ const tweet=()=>{
 
 tweet()
 
-setInterval(tweet, 10000);
+setInterval(tweet, 86400000);
 
